@@ -1,4 +1,4 @@
-# maternal_mortality_nj_us
+Maternal Mortality in NJ vs. US 
 End-to-end maternal health analytics project analyzing mortality trends and racial disparities (NJ vs US) using CDC WONDER, Python, and SQLite.
 
 Key Findings (2024)
